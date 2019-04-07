@@ -1,0 +1,152 @@
+div.scrollmenu {
+  background-color: #e4e4e4;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+
+.scroll_product span{
+color: rgb(43, 43, 233);
+font-size: 19px;
+}
+
+.scroll_product .scrollmenu img{
+  width: 200px;
+  height: 250px;
+  display: inline-block;
+  text-align: center;
+}
+.loginbtn {
+  text-align: center;
+  padding-top: 20px;
+  color: grey;
+  padding-bottom: 20px;
+
+}
+
+footer{
+ 
+  background:#232F3E; 
+  
+  text-align: center;
+  
+  
+}
+footer .backtotop{
+  background: #232F3E;
+
+}
+
+footer .content{
+  height: 40px;
+  
+  padding-top: 1px;
+  padding-bottom: 10px;
+}
+footer .content  a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+
+ 
+}
+footer .content h3{ margin-top:10px; }
+
+.colums{
+  background: #232F3E;
+  /* height: 200px; */
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+
+.col h2{
+  font-size: 22px;
+  font-weight: 400;
+  color: #fff;
+  
+}
+
+
+.footer_ul ul {
+  list-style-type: none;
+}
+.footer_ul ul li:first-child{
+  margin-top: 15px;
+}
+.footer_ul ul li{
+  text-align: left;
+  margin-left: 30px;
+  margin-top: 5px;
+
+}
+.footer_ul ul li a{
+  color: #e1e1e1;
+  text-decoration: none;
+}
+.ul_amazon li{
+  margin-left: -18px;
+}
+.ul_amazon_first li{
+  margin-left: 29px;
+}
+
+hr{
+  background: #fff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+footer img{
+  width: 150px;
+  height: 50px;
+  
+} 
+.button_group{
+  text-align: center;
+  margin-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.button_group a{
+  text-decoration: none;
+  color: #fff;
+  border-color: #fff;
+}
+.footer_item{
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #131A22;
+}
+.section-item{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.section-item h4 
+{
+ color: #fff;
+ font-size: 19px;
+ font-weight: 200 ;
+ text-align: left;
+}
+.section-item p{
+  color: #fff;
+  font-size: 15px;
+ font-weight: 100 ;
+ text-align: left;
+
+}

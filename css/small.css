@@ -1,0 +1,7 @@
+.clearShama{width: 100%; height: 500px; clear: both;}
+#myContainer {
+    left: 15%;
+    position: absolute;
+    z-index: 2;
+    top: 434px;
+    text-align: center;}

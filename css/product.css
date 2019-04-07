@@ -1,0 +1,147 @@
+#emptyNav
+{
+  height: 5%; 
+  background-color:#fafafa; 
+  border-bottom:1px; 
+  border-bottom-color: #fafafa;
+}
+
+#smallNav a, #smallNav
+{
+  padding: 4px;
+  color: #767676;
+  text-decoration: none;
+  font-size: .80rem;
+}
+
+#smallNav a:hover
+{
+  color: orange;
+  text-decoration: underline;
+}
+
+#smallPics
+{
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  justify-content: center;
+  align-items: center;
+  width:5%;
+  height: 25%;
+}
+
+#smallPics img
+{
+  width: 70%;
+  height:70%;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border: 1px solid black;
+
+}
+
+#smallPics img:hover
+{
+  border-color: orange;
+  cursor: pointer;
+}
+
+#imgMagnify img
+{
+  
+  width: 100%;
+  height:77vh;
+  margin-left:2px;
+}
+
+#flexMe
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+#headDesc
+{
+  
+  display: flex;
+  flex-direction: column;
+  width:27%;
+
+}
+
+#headDesc #title
+{
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+
+#headDesc a
+{
+  color: #36ADC0;
+  font-size: .9rem;
+  text-decoration: none;
+}
+
+.psVita
+{
+  text-decoration: none;
+  color: #36ADC0;
+}
+
+.psVita:hover
+{
+  text-decoration: underline;
+  color:darkorange;
+}
+
+#price
+{
+  padding: 4px;
+  color: #767676;
+  text-decoration: none;
+  font-size: .80rem;
+}
+
+.currency
+{
+  font-size: 1rem;
+  color:tomato;
+}
+
+#flexBig
+{
+  padding:2px;
+  width:76%;
+  display: flex;
+  flex-direction: row;
+  margin:auto;
+  flex-wrap: wrap;
+}
+
+#flexBig img
+{
+  margin-top:20px;
+}
+
+.imgCards
+{
+  width:31.2%;
+  margin:10px;
+}
+
+.imgCards img
+{
+  margin-bottom:9px;
+}
+
+#proInfo
+{
+  display:flex;
+  flex-direction: row;
+  width:100%;
+  flex-wrap: wrap;
+}
+.respon{width: 80%; height: 80%;}

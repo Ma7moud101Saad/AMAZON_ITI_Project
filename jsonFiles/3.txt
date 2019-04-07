@@ -1,0 +1,215 @@
+{
+  "Dept": {
+  
+    "Categories": {
+      "Category": [
+        {
+	"cat":3,
+        "img":"category/clock1.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+	"deal":"deal of the day",
+            "rate":5
+        },
+        {
+	"cat":3,
+        "img":"category/clock2.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+	"deal":"deal of the day",
+            "rate":5
+        },
+        {
+	"cat":3,
+        "img":"category/clock3.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+          {
+	"cat":3,
+        "img":"category/clock2.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+        {
+	"cat":3,
+        "img":"category/clock1.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":3,
+        "img":"category/clock1.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":3,
+        "img":"category/clock2.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":3,
+        "img":"category/clock3.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":3,
+        "img":"category/clock2.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":3,
+        "img":"category/clock1.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+        
+        {
+	"cat":3,
+        "img":"category/clock2.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+        
+      
+             {
+	"cat":3,
+        "img":"category/clock3.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+             {
+	"cat":3,
+        "img":"category/clock2.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+        {
+	"cat":3,
+        "img":"category/clock1.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+        {
+	"cat":3,
+        "img":"category/clock1.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":3,
+        "img":"category/clock2.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":3,
+        "img":"category/clock3.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":3,
+        "img":"category/clock1.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":3,
+        "img":"category/clock2.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":3,
+        "img":"category/clock3.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+        
+        {
+	"cat":3,
+        "img":"category/clock2.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+        
+      
+             {
+	"cat":3,
+        "img":"category/clock1.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+             {
+	"cat":3,
+        "img":"category/clock3.jpg",
+          "price": "$33.46 - $33.73",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        }
+        
+      ]
+    }
+  }
+}

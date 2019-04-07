@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head>
+            <link rel="stylesheet" href="css/jquery-ui.min.css">
+        <link rel="stylesheet" href="css/gift.css">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        
+
+        <link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
+        <link rel="stylesheet" href="bootstrap-grid.min.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+     
+    
+    
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="csss/style3.css">
+        <link rel="stylesheet" href="style/style.css">
+        <!--medium stylesheet(min-width:800px) and (max-width:1024px)-->
+    <link href="css/medium.css" rel="stylesheet" type="text/css" media="screen and (min-width:1000px) and (max-width:1240px"/>
+    <!--mall stylesheet(min-width:640px) and (max-width:800px)-->
+    <link href="css/minum.css" rel="stylesheet" type="text/css"  media="screen and (min-width:600px) and (max-width:1000px)">
+    <!--mall stylesheet(min-width:520px) and (max-width:640px)-->
+    <link href="css/small.css" rel="stylesheet" type="text/css"  media="screen and (min-width:360px) and (max-width:600px)">
+    <!--mart_phne stylesheet(min-width:320px) and (max-width:360px)-->
+    <link href="css/smartPhone.css" rel="stylesheet" type="text/css" media="screen and (min-width:320px) and (max-width:360px" >
+    <link rel="stylesheet" href="css/product.css">
+         <script src="js/jquery.min.js"></script>
+        <script src="script/script.js"></script>
+        
+
+        <title>amazon signin</title>
+    </head>
+<body>
+    <header>
+        <div class="row">
+           
+          <div id="myModel" class="model">
+            <div class="col-lg-4 offset-lg-4 col-md-12 col-sm-12 col-xs-12" >
+              <div id="bigModel">
+                <div class="topBidMode">
+                  
+                  <h6>chose your location</h6>
+                </div>
+                <div class="bigContainer">
+                  <p>Delivery options and delivery speeds may vary for different locations</p>
+                  <button class="sign">sign in to see your Address</button>
+                  <div class="divhr1">
+                    <hr class="hr1">
+                    <span> or enter a US zip code </span>
+                     <hr class="hr2">
+                  </div>
+                  <div class="textDiv">
+                  <input type="text" class="myText">
+                  <button class="apply">Apply</button>
+                </div>
+                <div class="divhr2">
+                    <hr class="hr1">
+                    <span> or </span>
+                     <hr class="hr2">
+                  </div>
+                  <select name="" id="">
+                    <option value="Egypt">Egypr</option>
+                  </select>
+                </div>
+    
+                <div class="bottomBidMode">
+                    <input type="submit" value="Done">
+                  </div>
+                </div>
+            <div id="subModel" class="modelContent">
+              <div class="top">
+                <p> chose your location</p>
+              </div>
+               <div class="loader"></div>
+               <div class="bottom">
+                  <button class="botBtn">Done</button>
+                </div>
+            </div>
+          </div>
+        </div>
+        
+          <div class="col-lg-1 logo">
+          <a href="index.html"><img src="images/logo.png" alt=""></a>  
+          </div>
+          <div class="col-lg-7 col-md-12 col-sm-12 col-xs-10 offset-1 search">
+            <div class="dropDown">
+              <button class="myAll" onclick="Display()">All <img src="images/arrow.png"alt=""> </button>
+              <div class="dropDownList">
+                  <ul>
+                      <li> <a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li> <a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li> <a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li> <a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                      <li><a href="#">link</a></li>
+                  </ul>
+                  
+              </div>
+              
+          </div>
+          
+          <input id="mysearchtext" type="text" >
+          <button class="btnSearch"><img src="images/search.png"  width=20 height=auto class="img-responsive" alt=""></button>
+          </div>
+          <div class="col-lg-3 why">
+            <p>why shop with Amazon? learn More</p>
+          </div>
+        </div>
+    
+        <div class="row">
+          <div class="col-lg-1 map">
+            <button id="ShowchoseYouLocation" onclick="showChoseL()">
+            <div id="mapMe">
+            <img src="images/anchor.png" alt="">
+            <h3>Dlever to <b>Egypt</b></h3>
+          </div>
+        </button>
+          </div>
+          <div class="col-lg-7 col-md-12 menu">
+            <ul>
+              <li class="active">
+                <a  href="Dpartment.html">Departments<img src="images/arrow2.png" alt=""> </a>
+                <div class="dropDownDepatments">
+                    <ul>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                        <li><a href="">link</a></li>
+                      </ul>
+                    </div></li>
+              <li><a href="signin.html">Your Amazon.com</a></li>
+              <li><a href="DealAndePromtion.html">Today's Deals</a></li>
+              <li><a href="gift.html">Gift Cards</a></li>
+              <li><a href="sell.html">Sell</a></li>
+              <li><a href="register.html">Registry</a></li>
+              <li><a href="healp.html">Help</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-3 col-md-12 newMenu">
+              <ul>
+                  <li class="language">
+                     <a href=""> <p>EN</p>
+                              
+                          </a>
+                    <div class="allLanguages">
+                      
+                            <ul>
+                                <li>
+                                    <input type="radio" name="gender" value="english">  English
+                                </li>
+                                <li>
+                                    <input type="radio" name="gender" value="english"> English
+                                </li>
+                                <li>
+                                    <input type="radio" name="gender" value="english"> English
+                                </li>
+                                <li>
+                                    <input type="radio" name="gender" value="english"> English
+                                </li>
+                                <li>
+                                    <input type="radio" name="gender" value="english"> English
+                                </li>
+                              </ul>
+                         
+                        </div></li>
+    
+                        <li class="signIn">
+                            <a href="">  Sign  </a>
+                                 <div class="wrapper">  <button class="signbtn" onclick="goSign()">sign in</button>
+                                  <div class="clear"></div>
+                           <div class="yourlist">
+                              
+                                   <ul>
+                                     <li><a href="">your list</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                     </ul>
+                                 
+                               </div>
+                               <div class="youracount">
+                              
+                                  <ul>
+                                      <li><a href="">your acount</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>
+                                      <li><a href="">link</a></li>                                </ul>
+                                
+                              </div>
+                            </div>
+                            </li>
+                            <li id="order">
+                           <a href=""> Order</a>
+                            </li>
+                            <li>
+                                <img id="shop" src="images/shopCar.png" alt="">
+                            </li>
+    
+                </ul>
+        
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- gift -->
+    <section class="navbar-gift   border-bottom border-dark">
+        <div class="container-fluid">
+            <div class="row">
+                <ul class="gift_list">
+                    <li><a href="#">Gift cards</a></li>
+                    <li><a href="#">Best Seller</a></li>
+                    <li><a href="#">Birthdays</a></li>
+                    <li><a href="#">Redeem gift cards</a></li>
+                    <li><a href="#"> View Your Balance  </a></li>
+                    <li><a href="#"> View Your Balance</a></li>
+                    <li><a href="#">Reload Your Balance</a></li>
+                    <li><a href="#">By Brand</a></li>
+                    <li><a href="#">Amazon Cash</a></li>
+                    <li><a href="#">  For Businesses</a></li>
+                    <li><a href="#">Be Informed</a></li>
+                    <li><a href="#">Find a Gift</a></li>
+                </ul>
+               
+                
+            </div>
+            
+            
+         
+        </div>
+    </section>
+    <hr>
+    <section class="main-page py-4 ">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-2  border border-dark ml-2">
+                    <a href="#">expand all</a>
+                    <div id="accordion">
+                            <h3>Seasonal Events </h3>
+                            <div>
+                             <ul class="accordion_ul">
+                                <li><a href="#">Birthdays</a></li>
+                                <li><a href="#">Thank you</a></li>
+                                <li><a href="#">Conguratulations</a></li>
+                                <li><a href="#" class="li_bold"> >ALL occasions</a></li>
+                             </ul>
+                            </div>
+                            <h3> Amazon Gift Cards: Special Features </h3>
+                            <div>
+                                    <ul class="accordion_ul">
+                                            <li><a href="#">Reload Your Balance</a></li>
+                                            <li><a href="#">Amazon Cash</a></li>
+                                            <li><a href="#">Anytime Gift Cards</a></li>
+                                            <li><a href="#"> Animated Gift Cards</a></li>
+                                            <li><a href="#"> The Gift of Prime</a></li>
+                                         </ul>
+                            </div>
+                            <h3> Amazon Gift Cards: Special Features </h3>
+                            <div>
+                                    <ul class="accordion_ul">
+                                            <li><a href="#">Restaurants</a></li>
+                                            <li><a href="#">Movie Theaters</a></li>
+                                            <li><a href="#">Starbucks</a></li>
+                                            <li><a href="#"> Nordstrom</a></li>
+                                            <li><a href="#" class="li_bold"> > All Brands</a></li>
+                                         </ul>
+                            </div>
+                            
+                           
+                          </div>
+
+                          <div class="checkbox-option">
+                              <h5 class="py-2 grey-opacity" >show result for</h5>
+                              <div class="checkbox-option1"></div>
+                              <div class="checkbox-option2"></div>
+                              <div class="checkbox-option3"></div>
+                              <div class="checkbox-option4"></div>
+                          </div>
+                           
+                </div>
+                <div class=" col-md-9 item_width ml-4 ">
+                    <div class="">
+
+                    
+                        <div class="item_gift_link ">
+                                <div>
+                                    <p><a href="#">Your Gift Card Balance<span class="spanlink"> Sign in to view </span></a></p>
+                                </div>
+        
+                                <div>
+                                        <p><a href="#">Reload your balance </a></p>
+                                    </div>
+        
+                                    <div>
+                                            <p><a href="#"> Redeem an Amazon Gift Card  </a></p>
+                                        </div>
+                            </div>
+
+                            <div class="giftbg">
+                                <h1 class="text-center">Gift cards</h1>
+
+                            </div>
+                            <div class="item_gift_link1 py-5 px-5">
+                               <div>
+                                    <a href="#"><img src="img/22/1.jpg" alt="1" class=" pic_item_gift_link"></a>
+                               </div>
+                               
+                               <div>
+                                    <a href="#"><img src="img/22/2.jpg" alt="1" class="pic_item_gift_link"></a>
+                               </div>
+
+                               <div>
+                                    <a href="#"><img src="img/22/3.jpg" alt="1" class=" pic_item_gift_link"></a>
+                               </div>
+
+                            </div>
+                            <div class="colum_of_gift">
+                                <h4 class="text-center">shop by occasion</h4>
+                                <div class="first_colum_of_gift">
+                                        <div>
+                                                <a href="#"><img src="img/22/4.jpg" alt="1" class=" pic_item_gift_link"></a>
+                                           </div>
+                                           
+                                           <div>
+                                                <a href="#"><img src="img/22/5.jpg" alt="1" class="pic_item_gift_link"></a>
+                                           </div>
+            
+                                           <div>
+                                                <a href="#"><img src="img/22/6.jpg" alt="1" class=" pic_item_gift_link"></a>
+                                           </div>
+
+                                           <div>
+                                                <a href="#"><img src="img/22/7.jpg" alt="1" class=" pic_item_gift_link"></a>
+                                           </div>
+            
+            
+
+
+                                </div>
+                                <div class="first_colum_of_gift">
+                                        <div>
+                                                <a href="#"><img src="img/22/8.jpg" alt="1" class=" pic_item_gift_link"></a>
+                                           </div>
+                                           
+                                           <div>
+                                                <a href="#"><img src="img/22/9.jpg" alt="1" class="pic_item_gift_link"></a>
+                                           </div>
+            
+                                           <div>
+                                                <a href="#"><img src="img/22/10.jpg" alt="1" class=" pic_item_gift_link"></a>
+                                           </div>
+
+                                           <div>
+                                                <a href="#"><img src="img/22/11.jpg" alt="1" class=" pic_item_gift_link"></a>
+                                           </div>
+            
+            
+
+
+                                </div>
+
+
+                            </div>
+                            <div class="slider_carousel">
+
+                            
+                            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                      <div class="carousel-item active">
+                                        <img class="d-block w-100" src="img/slider/2.jpg" alt="First slide">
+                                      </div>
+                                      <div class="carousel-item">
+                                        <img class="d-block w-100" src="img/slider/3.jpg" alt="Second slide">
+                                      </div>
+                                      <div class="carousel-item">
+                                        <img class="d-block w-100" src="img/slider/4.jpg" alt="Third slide">
+                                      </div>
+                                    </div>
+                                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                      <span class="sr-only test" >Previous</span>
+                                    </a>
+                                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                      <span class="sr-only">Next</span>
+                                    </a>
+                                  </div>
+                                  </div>
+
+                            <div >
+                                    <h1 class="text-center pb-3">Shop of brand</h1>
+    
+                                </div>
+                                <div class="item_gift_link2 py-5 px-5">
+                                  
+                                   
+                                   <div>
+                                        <a href="#"><img src="img/22/13.jpg" alt="1" class="pic_item_gift_link"></a>
+                                   </div>
+    
+                                   <div>
+                                        <a href="#"><img src="img/22/14.jpg" alt="1" class=" pic_item_gift_link"></a>
+                                   </div>
+    
+                                </div>
+
+
+
+                </div>
+            </div>
+</div>
+           
+        </div>
+    </section>
+    
+    
+    <footer>
+        <div class="container-fluid backtotop">
+        <div class="content align-center" style="padding-top:2px">
+        <h3 ><a href="#" style="padding-bottom: 12px;">Back To Top</a></h3>
+        </div>
+        </div>
+        
+        <div class="container-fluid colums">
+        <div class="row">
+        <div class="col col-lg-3 col-md-6 col-sm-12 footer_ul">
+          <h2>Get to Know Us</h2>
+          <ul class="ul_amazon_first">
+              <li> <a href="#"> Career</a></li>
+              <li>  <a href="#">Blog</a></li>
+              <li> <a href="#">About Amazon</a></li>
+              <li><a href="#">Investor reflection</a></li>
+              <li><a href="#">Amazon Devices</a></li>
+          </ul>
+        </div>
+        <div class="col col-lg-3 col-md-6 col-sm-12 footer_ul">
+              
+              <ul>
+                      <h2>Make Money With  Us</h2>
+                      <li><a href="#">Set on Amazon</a></li>
+                      <li><a href="#">Set Your services on amazon</a></li>
+                      <li><a href="#">Set on Amazon Business</a></li>
+                      <li><a href="#">Set You Apps on Amazon</a></li>
+                      <li><a href="#">Become an afficate</a></li>
+                      <li><a href="#">adviste Your Product </a></li>
+        
+                      <li><a href="#">Investor reflection</a></li>
+                      <li><a href="#"> > see all</a></li>
+              </ul>
+          </div>
+          <div class="col col-lg-3 col-md-6 col-sm-12 footer_ul">
+                  <h2>Amazon Payment Products</h2>
+                  <ul class="ul_amazon">
+                      <li><a href="#">Amazon Business cards </a></li>
+                      <li><a href="#">shop with points </a></li>
+                      <li><a href="#">relaod your balance </a></li>
+                      <li><a href="#">Amazon currency converter </a></li>
+                  </ul>
+              </div>
+              <div class="col col-lg-3 col-md-6 col-sm-12 footer_ul">
+                      <h2>Let Us Help You</h2>
+                      <ul>
+                          <li><a href="#">Your account</a></li>
+                          <li><a href="#">Your orders </a></li>
+                          <li><a href="#">shipping Rates & polices</a></li>
+                          <li><a href="#">Return & Replacements </a></li>
+                          <li><a href="#">Mange your account and devices </a></li>
+                          <li><a href="#">Amazon Assistent </a></li>
+                          <li><a href="#">help </a></li>
+                      </ul>
+                  </div>
+        
+                 
+        
+        </div>
+        </div>
+        <hr>
+        <div class="container button_group">
+        <div class="row">
+        <div class="mx-auto">
+        
+        
+        <img src="images/logo.png"  alt="" class=" mr-5">
+        <a href="#" class="btn btn-outline-primary ml-3">english</a>
+        <a href="#" class="btn btn-outline-primary ml-3">$ USD -U.S.Dollar</a>
+        <a href="#"  class="btn btn-outline-primary ml-3">United States</a>
+        </div>
+        </div>
+        </div>
+        <div class="container-fluid footer_item">
+        <div class="row">
+        <div class="col  col-sm-12 col-md-4 col-lg-2">
+         <div class="section-item">
+              <h4>amazon music</h4>
+          <p>strong million of songs</p>
+         </div> 
+         <div class="section-item">
+              <h4>amazon Business</h4>
+          <p>Every thing for your business</p>
+         </div>
+         <div class="section-item">
+              <h4>amazon Goodreader</h4>
+          <p>strong million of songs</p>
+         </div>
+         <div class="section-item">
+              <h4>amazon BOX OFFICE</h4>
+          <p>strong million of songs</p>
+         </div>
+        </div>
+        
+        <div class="col  col-sm-12 col-md-4 col-lg-2">
+              <div class="section-item">
+                   <h4>amazon home servies</h4>
+               <p>strong million of songs</p>
+              </div> 
+              <div class="section-item">
+                   <h4>amazon createspaces</h4>
+               <p>strong million of songs</p>
+              </div>
+              <div class="section-item">
+                   <h4>amazon jungle.com</h4>
+               <p>strong million of songs</p>
+              </div>
+              <div class="section-item">
+                   <h4>amazon music</h4>
+               <p>strong million of songs</p>
+              </div>
+           </div>
+        
+           <div class="col  col-sm-12 col-md-4 col-lg-2">
+                  <div class="section-item">
+                       <h4>amazon abebook</h4>
+                   <p>strong million of songs</p>
+                  </div> 
+                  <div class="section-item">
+                       <h4>amazon ACX</h4>
+                   <p>strong million of songs</p>
+                  </div>
+                  <div class="section-item">
+                       <h4>amazon music</h4>
+                   <p>strong million of songs</p>
+                  </div>
+                  <div class="section-item">
+                       <h4>amazon web services</h4>
+                   <p>strong million of songs</p>
+                  </div>
+               </div>
+        
+               <div class="col  col-sm-12 col-md-4 col-lg-2">
+                      <div class="section-item">
+                           <h4>amazon east out </h4>
+                       <p>strong million of songs</p>
+                      </div> 
+                      <div class="section-item">
+                           <h4>amazon movies</h4>
+                       <p>strong million of songs</p>
+                      </div>
+                      <div class="section-item">
+                           <h4>amazon loader</h4>
+                       <p>strong million of songs</p>
+                      </div>
+                      <div class="section-item">
+                           <h4>amazon cuts</h4>
+                       <p>strong million of songs</p>
+                      </div>
+                   </div>
+        
+        
+                   <div class="col  col-sm-12 col-md-4 col-lg-2">
+                          <div class="section-item">
+                               <h4>amazon buys</h4>
+                           <p>strong million of songs</p>
+                          </div> 
+                          <div class="section-item">
+                               <h4>amazon seller</h4>
+                           <p>strong million of songs</p>
+                          </div>
+                          <div class="section-item">
+                               <h4>amazon products</h4>
+                           <p>strong million of songs</p>
+                          </div>
+                          <div class="section-item">
+                               <h4>amazon funs</h4>
+                           <p>strong million of songs</p>
+                          </div>
+                       </div>
+        
+                       <div class="col  col-sm-12 col-md-4 col-lg-2">
+                              <div class="section-item">
+                                   <h4>amazon car</h4>
+                               <p>strong million of songs</p>
+                              </div> 
+                              <div class="section-item">
+                                   <h4>amazon bars</h4>
+                               <p>strong million of songs</p>
+                              </div>
+                              <div class="section-item">
+                                   <h4>amazon goodmorning</h4>
+                               <p>strong million of songs</p>
+                              </div>
+                              <div class="section-item">
+                                   <h4>amazon funday</h4>
+                               <p>strong million of songs</p>
+                              </div>
+                           </div>
+        </div>
+        </div>
+        <div id="myId"></div>
+        </footer>
+
+
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<script src="js/main.js"></script>
+</body>
+</html>

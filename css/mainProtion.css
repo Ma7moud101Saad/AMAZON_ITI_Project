@@ -1,0 +1,23 @@
+article{width: 100%; min-height: 400px; background-color:white;}
+.headDel{ margin-bottom: 3%;}
+article .categorie{border: 1px solid #F5F5F5;float: left; 
+    box-sizing: border-box; padding: 10px; height: 500px;
+}
+.categorie img.photoProduct{margin-bottom: 10px;width: 100%; height: 40%;}
+.categorie .dealDay{background-color: #C45500; width: 50%; 
+font-weight: bold; color: white;}
+.categorie .detailBtn{
+    background: none;
+    border: none;
+    background-color: #F3D17B;
+   height: 30px;
+    width: 100%;
+    margin: 10px auto;
+    border: 1px solid black;
+    
+}
+.menuDeal{height: auto; background-color:#F5F5F5;
+    box-sizing: border-box; padding-top: 10px;}
+.menuDeal h6{text-align: center; font-weight: bold; font-size: 14px;  }
+.menuDeal ul{margin-bottom: 10%;}
+.menuDeal ul li{list-style-type: none;}

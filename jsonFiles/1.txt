@@ -1,0 +1,215 @@
+{
+  "Dept": {
+  
+    "Categories": {
+      "Category": [
+        {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+	"deal":"deal of the day",
+            "rate":5
+        },
+        {
+	"cat":1,
+        "img":"category/nutela2.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+	"deal":"deal of the day",
+            "rate":5
+        },
+        {
+	"cat":1,
+        "img":"category/nutela3.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+          {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":2
+        },
+        {
+	"cat":1,
+        "img":"category/nutela2.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":1,
+        "img":"category/nutela3.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+        
+        {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":2
+        },
+        
+      
+             {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+             {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+        {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":2
+        },
+        {
+	"cat":1,
+        "img":"category/nutela2.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":1,
+        "img":"category/nutela3.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+        
+        {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":2
+        },
+        
+      
+             {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        },
+             {
+	"cat":1,
+        "img":"category/nutela.jpg",
+          "price": "$22.46 - $33.71",
+          "save":"Save up to 35% on Marpac Sound Machines",
+"deal":"",
+            "rate":3
+        }
+        
+      ]
+    }
+  }
+}

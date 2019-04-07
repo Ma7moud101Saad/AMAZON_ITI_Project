@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0 auto;
+
+}
+.signinpage{
+   
+}
+.logo{
+    text-align: center;
+}
+.img-style{
+    width: 120px;
+    height: 30px;
+}
+.formborder{
+    border: 1px solid #d3c9c9;
+    padding: 20px 10px;
+
+}
+#emaillabel{
+    font-size: 13px;
+    font-weight: 900;
+}
+.btn-1{
+    background:#F1C55A;
+    border: 1px solid #615a5a;
+}
+
+.btn-2{
+    background:#EFF1F3;
+    border: 1px solid #615a5a;
+}
+.formborder h2{
+    font-size: 23px;
+
+}
+.flex-forget{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.flex-check{
+    margin-left: -12px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row; 
+}
+
+.paragraph_newtoamazon{
+    font-size: 16px;
+    text-align: center;
+    color: #666363;
+
+
+}
+
+
+.footer_flex{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row; 
+}
+
+.footer_flex p{
+    font-size: 12px;
+}
+
+.copyright{
+    margin-left: 15px;
+}
+.copyright p{
+    font-size: 13px;
+    color: #666363;
+
+}

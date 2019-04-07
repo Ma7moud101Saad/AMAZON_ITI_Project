@@ -1,0 +1,25 @@
+
+.product{height: auto;
+     background-color: #F7F7F7;
+     padding: 0;
+    display: inline-block;
+     margin-bottom: 2%;
+    border: 10px solid #fff;
+    padding-bottom: 3%;
+     min-height: 300px;
+     height: auto;
+ }
+ .product h5{margin-left: 3%;}
+ .product a{color: #6C5555;
+    margin-left: 3%;
+}
+p.pragraph{font-size: .8em;}
+.btn.btn-danger
+{
+  width: 20%;
+  background-color: rgb(240, 193, 75);
+  border: 1px solid gray;
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+}

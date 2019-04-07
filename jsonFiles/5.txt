@@ -1,0 +1,215 @@
+{
+  "Dept": {
+  
+    "Categories": {
+      "Category": [
+        {
+	"cat":5,
+        "img":"category/l1.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+	"deal":"deal of the day",
+            "rate":5
+        },
+        {
+	"cat":5,
+        "img":"category/l2.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+	"deal":"deal of the day",
+            "rate":5
+        },
+        {
+	"cat":5,
+        "img":"category/l3.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+          {
+	"cat":5,
+        "img":"category/l2.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+            "rate":5
+        },
+        {
+	"cat":5,
+        "img":"category/l1.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":5,
+        "img":"category/l1.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":5,
+        "img":"category/l2.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":5,
+        "img":"category/l3.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":5,
+        "img":"category/l2.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":5,
+        "img":"category/l1.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+            "rate":5
+        },
+        
+        {
+	"cat":5,
+        "img":"category/l2.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+            "rate":5
+        },
+        
+      
+             {
+	"cat":5,
+        "img":"category/l3.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+            "rate":5
+        },
+             {
+	"cat":5,
+        "img":"category/l2.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+            "rate":5
+        },
+        {
+	"cat":5,
+        "img":"category/l1.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+            "rate":5
+        },
+        {
+	"cat":5,
+        "img":"category/l1.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":5,
+        "img":"category/l2.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":5,
+        "img":"category/l3.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":5,
+        "img":"category/l1.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+           {
+	"cat":5,
+        "img":"category/l2.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"deal of the day",
+          "rate":5
+      
+        },
+        
+           {
+	"cat":5,
+        "img":"category/l3.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+            "rate":5
+        },
+        
+        {
+	"cat":5,
+        "img":"category/l2.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+            "rate":5
+        },
+        
+      
+             {
+	"cat":5,
+        "img":"category/l1.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+            "rate":5
+        },
+             {
+	"cat":5,
+        "img":"category/l3.jpg",
+          "price": "$55.56 - $55.75",
+          "save":"Save up to 55% on Marpac Sound Machines",
+"deal":"",
+            "rate":5
+        }
+        
+      ]
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "Dept": {
+  
+    "poducts": {
+        
+      "product": [
+        
+        {
+        "img":"Department/img1.png",
+              "name":"Amazon Music",
+                "link": {
+                        "link1":"Amazon Music Unlimited",
+                        "link2":"prime music",
+                        "link3":"open web player",
+                        "link4":"cd & vinly",
+                        "link5":"download store"
+                        }
+            
+        },
+           {
+        "img":"Department/img2.png",
+              "name":"Amazon Music",
+                "link": {
+                        "link1":"Amazon Music Unlimited",
+                        "link2":"prime music",
+                        "link3":"open web player",
+                        "link4":"cd & vinly",
+                        "link5":"download re",
+                        "link6":"Amazon Music Unlimited",
+                        "link7":"prime music",
+                        "link8":"open web player",
+                        "link9":"cd & vinly",
+                        "link10":"download re",
+                        "link11":"prime music",
+                        "link12":"open web player",
+                        "link13":"cd & vinly",
+                        "link14":"download re"
+                        }
+            
+        },
+            {
+        "img":"Department/img3.png",
+              "name":"Amazon Music",
+                "link": {
+                        "link1":"Amazon Music Unlimited",
+                        "link2":"prime music",
+                        "link3":"open web player",
+                        "link4":"cd & vinly",
+                        "link5":"download re",
+                        "link6":"Amazon Music Unlimited",
+                        "link7":"prime music",
+                        "link8":"open web player",
+                        "link9":"cd & vinly",
+                        "link10":"download re"
+                        }
+            
+        },
+           {
+        "img":"Department/img4.png",
+              "name":"Amazon Music",
+                "link": {
+                        "link1":"Amazon Music Unlimited",
+                        "link2":"prime music",
+                        "link3":"open web player",
+                        "link4":"cd & vinly",
+                        "link5":"download re"
+                        }
+            
+        },
+           {
+        "img":"Department/img6.png",
+              "name":"Amazon Music",
+                "link": {
+                        "link1":"Amazon Music Unlimited",
+                        "link2":"prime music",
+                        "link3":"open web player",
+                        "link4":"cd & vinly",
+                        "link5":"download re",
+                        "link6":"Amazon Music Unlimited",
+                        "link7":"prime music",
+                        "link8":"open web player",
+                        "link9":"cd & vinly",
+                        "link10":"download re"
+                        }
+            
+        },
+          {
+        "img":"Department/img7.png",
+              "name":"Amazon Music",
+                "link": {
+                        "link1":"Amazon Music Unlimited",
+                        "link2":"prime music",
+                        "link3":"open web player",
+                        "link4":"cd & vinly",
+                        "link5":"download store"
+                        }
+            
+        },
+           {
+        "img":"Department/img8.png",
+              "name":"Amazon Music",
+                "link": {
+                        "link1":"Amazon Music Unlimited",
+                        "link2":"prime music",
+                        "link3":"open web player",
+                        "link4":"cd & vinly",
+                        "link5":"download re",
+                        "link6":"Amazon Music Unlimited",
+                        "link7":"prime music",
+                        "link8":"open web player",
+                        "link9":"cd & vinly",
+                        "link10":"download re",
+                        "link11":"prime music",
+                        "link12":"open web player",
+                        "link13":"cd & vinly",
+                        "link14":"download re"
+                        }
+            
+        },
+            {
+        "img":"Department/img1.png",
+              "name":"Amazon Music",
+                "link": {
+                        "link1":"Amazon Music Unlimited",
+                        "link2":"prime music",
+                        "link3":"open web player",
+                        "link4":"cd & vinly",
+                        "link5":"download re",
+                        "link6":"Amazon Music Unlimited",
+                        "link7":"prime music",
+                        "link8":"open web player",
+                        "link9":"cd & vinly",
+                        "link10":"download re"
+                        }
+            
+        },
+           {
+        "img":"Department/img2.png",
+              "name":"Amazon Music",
+                "link": {
+                        "link1":"Amazon Music Unlimited",
+                        "link2":"prime music",
+                        "link3":"open web player",
+                        "link4":"cd & vinly",
+                        "link5":"download re"
+                        }
+            
+        },
+           {
+        "img":"Department/img3.png",
+              "name":"Amazon Music",
+                "link": {
+                        "link1":"Amazon Music Unlimited",
+                        "link2":"prime music",
+                        "link3":"open web player",
+                        "link4":"cd & vinly",
+                        "link5":"download re",
+                        "link6":"Amazon Music Unlimited",
+                        "link7":"prime music",
+                        "link8":"open web player",
+                        "link9":"cd & vinly",
+                        "link10":"download re"
+                        }
+            
+        },
+        {
+          "img":"Department/img4.png",
+                "name":"Amazon Music",
+                  "link": {
+                          "link1":"Amazon Music Unlimited",
+                          "link2":"prime music",
+                          "link3":"open web player",
+                          "link4":"cd & vinly",
+                          "link5":"download store"
+                          }
+              
+          },
+             {
+          "img":"Department/img5.png",
+                "name":"Amazon Music",
+                  "link": {
+                          "link1":"Amazon Music Unlimited",
+                          "link2":"prime music",
+                          "link3":"open web player",
+                          "link4":"cd & vinly",
+                          "link5":"download re",
+                          "link6":"Amazon Music Unlimited",
+                          "link7":"prime music",
+                          "link8":"open web player",
+                          "link9":"cd & vinly",
+                          "link10":"download re",
+                          "link11":"prime music",
+                          "link12":"open web player",
+                          "link13":"cd & vinly",
+                          "link14":"download re"
+                          }
+              
+          },
+              {
+          "img":"Department/img6.png",
+                "name":"Amazon Music",
+                  "link": {
+                          "link1":"Amazon Music Unlimited",
+                          "link2":"prime music",
+                          "link3":"open web player",
+                          "link4":"cd & vinly",
+                          "link5":"download re",
+                          "link6":"Amazon Music Unlimited",
+                          "link7":"prime music",
+                          "link8":"open web player",
+                          "link9":"cd & vinly",
+                          "link10":"download re"
+                          }
+              
+          },
+             {
+          "img":"Department/img7.png",
+                "name":"Amazon Music",
+                  "link": {
+                          "link1":"Amazon Music Unlimited",
+                          "link2":"prime music",
+                          "link3":"open web player",
+                          "link4":"cd & vinly",
+                          "link5":"download re"
+                          }
+              
+          },
+             {
+          "img":"Department/img8.png",
+                "name":"Amazon Music",
+                  "link": {
+                          "link1":"Amazon Music Unlimited",
+                          "link2":"prime music",
+                          "link3":"open web player",
+                          "link4":"cd & vinly",
+                          "link5":"download re",
+                          "link6":"Amazon Music Unlimited",
+                          "link7":"prime music",
+                          "link8":"open web player",
+                          "link9":"cd & vinly",
+                          "link10":"download re"
+                          }
+              
+          },
+            {
+          "img":"Department/img1.png",
+                "name":"Amazon Music",
+                  "link": {
+                          "link1":"Amazon Music Unlimited",
+                          "link2":"prime music",
+                          "link3":"open web player",
+                          "link4":"cd & vinly",
+                          "link5":"download store"
+                          }
+              
+          },
+             {
+          "img":"Department/img1.png",
+                "name":"Amazon Music",
+                  "link": {
+                          "link1":"Amazon Music Unlimited",
+                          "link2":"prime music",
+                          "link3":"open web player",
+                          "link4":"cd & vinly",
+                          "link5":"download re",
+                          "link6":"Amazon Music Unlimited",
+                          "link7":"prime music",
+                          "link8":"open web player",
+                          "link9":"cd & vinly",
+                          "link10":"download re",
+                          "link11":"prime music",
+                          "link12":"open web player",
+                          "link13":"cd & vinly",
+                          "link14":"download re"
+                          }
+              
+          },
+              {
+          "img":"Department/img1.png",
+                "name":"Amazon Music",
+                  "link": {
+                          "link1":"Amazon Music Unlimited",
+                          "link2":"prime music",
+                          "link3":"open web player",
+                          "link4":"cd & vinly",
+                          "link5":"download re",
+                          "link6":"Amazon Music Unlimited",
+                          "link7":"prime music",
+                          "link8":"open web player",
+                          "link9":"cd & vinly",
+                          "link10":"download re"
+                          }
+              
+          },
+             {
+          "img":"Department/img1.png",
+                "name":"Amazon Music",
+                  "link": {
+                          "link1":"Amazon Music Unlimited",
+                          "link2":"prime music",
+                          "link3":"open web player",
+                          "link4":"cd & vinly",
+                          "link5":"download re"
+                          }
+              
+          },
+             {
+          "img":"Department/img1.png",
+                "name":"Amazon Music",
+                  "link": {
+                          "link1":"Amazon Music Unlimited",
+                          "link2":"prime music",
+                          "link3":"open web player",
+                          "link4":"cd & vinly",
+                          "link5":"download re",
+                          "link6":"Amazon Music Unlimited",
+                          "link7":"prime music",
+                          "link8":"open web player",
+                          "link9":"cd & vinly",
+                          "link10":"download re"
+                          }
+              
+          }
+      ]
+    }
+  }
+}
